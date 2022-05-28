@@ -1,0 +1,8 @@
+const RESTAURANT = {
+  RESTAURANT_LIST: 'RESTAURANT_LIST',
+  LOGIN: 'LOGIN',
+};
+
+export default {
+  RESTAURANT,
+};

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ManeltechPractical.iml" filepath="$PROJECT_DIR$/.idea/modules/ManeltechPractical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ManeltechPractical.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ManeltechPractical.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-13925355/ManeltechPractical.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-13925355/ManeltechPractical.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1144619549/ManeltechPractical.react-native-get-location.iml" filepath="$PROJECT_DIR$/.idea/modules/1144619549/ManeltechPractical.react-native-get-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/668375656/ManeltechPractical.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/668375656/ManeltechPractical.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/594473600/ManeltechPractical.react-native-masked-view_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/594473600/ManeltechPractical.react-native-masked-view_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1713761107/ManeltechPractical.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/1713761107/ManeltechPractical.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/154004286/ManeltechPractical.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/154004286/ManeltechPractical.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/87859414/ManeltechPractical.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/87859414/ManeltechPractical.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1789520927/ManeltechPractical.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1789520927/ManeltechPractical.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-596463256/android-native.ManeltechPractical.react-native-sqlite-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-596463256/android-native.ManeltechPractical.react-native-sqlite-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1317590568/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1317590568/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>

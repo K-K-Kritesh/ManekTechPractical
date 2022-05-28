@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ManeltechPractical</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBZYKXJFxtF-jS74pCvGly7bVGoeeE2ZPA</string>
+</resources>
